@@ -1,0 +1,7 @@
+wc
+wc.exe
+*.o
+*.out
+*.exe
+.vscode/
+.idea/
